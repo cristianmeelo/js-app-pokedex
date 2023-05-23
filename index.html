@@ -1,48 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!--Links-->
-    <link rel="stylesheet" href="./css/styles.css" />
-    <link rel="icon" href="./favicons/favicon-16x16.png" />
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- Main JS-->
-    <script defer src="./js/script.js"></script>
+  <!--Links-->
+  <link rel="stylesheet" href="./css/styles.css" />
+  <link rel="icon" href="./favicons/favicon-16x16.png" />
 
-    <title>Pokédex</title>
-  </head>
+  <!-- Main JS-->
+  <script defer src="./js/script.js"></script>
 
-  <body>
-    <main>
-      <img
-        src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10002.png"
-        alt="pokemon image"
-        class="pokemon__image"
-      />
+  <title>Pokédex</title>
+</head>
 
-      <h1 class="pokemon__data">
-        <span class="pokemon__number"></span> -
-        <span class="pokemon__name"></span>
-      </h1>
+<body>
+  <main>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10002.png" alt="pokemon image"
+      class="pokemon__image" />
 
-      <form class="form">
-        <input
-          type="search"
-          class="input__search"
-          placeholder="Name or Number"
-          required
-        />
-      </form>
+    <h1 class="pokemon__data">
+      <span class="pokemon__number"></span> -
+      <span class="pokemon__name"></span>
+    </h1>
 
-      <div class="buttons">
-        <button class="button btn-prev">Prev &lt</button>
-        <button class="button btn-next">Next &gt</button>
-      </div>
+    <form class="form">
+      <input type="search" class="input__search" placeholder="Name or Number" required />
+    </form>
 
-      <img src="./images/pokedex.png" alt="pokedex" class="pokedex" />
-    </main>
-  </body>
+    <div class="buttons">
+      <button class="button btn-prev">Prev &lt</button>
+      <button class="button btn-next">Next &gt</button>
+    </div>
+
+    <img src="./images/pokedex.png" alt="pokedex" class="pokedex" />
+  </main>
+</body>
+
 </html>

@@ -1,38 +1,55 @@
-![App Pokedéx](thumbnail.png)
+<table align="right">
+  <tr>
+    <td>
+      <a href="README-en.md">🇺🇸 English (apenas no GitHub)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+
+![](https://github.com/cristianmeelo/js-app-pokedex/blob/main/thumbnail.png?raw=true#vitrinedev)
 
 # App Pokedex
 
-A pokédex simulation written in JS!
+Uma [pokedéx](https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex) responsiva que te permite navegar por todos os pokémons da geração 5.
 
-<img src="screencapture.png" alt="Image App" width="50%">
+<img src="screencapture.png" alt="Image App" >
+<div align="center">
+<a href="https://js-app-pokedex.vercel.app/">
+  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
+</a>
+</div>
 
-## 🔨 Project features
+## 🔨 Recursos do projeto
 
-A very responsive pokedex that allows you to browse all generation 5 pokemons.
+Uma Pokedex é um dispositivo eletrônico apresentado no jogo Pokémon e na série de anime que serve como uma enciclopédia digital para todas as espécies conhecidas de Pokémon. Nesta releitura, foi feita uma pokedéx com layout muito próximo da original, onde você pode navegar entre os pokemóns da geração 5.
 
-A Pokedex is an electronic device featured in the Pokémon game and anime series that serves as a digital encyclopedia for all known Pokémon species. It contains detailed information about each Pokémon, such as its name, number in order of registration, type, abilities, battle stats, possible evolutions, location where it can be found, and other characteristics.
+## ⚙️ Técnicas e tecnologias usadas
 
-The [Tutorial of this application you can find here](https://www.youtube.com/watch?v=SjtdH3dWLa8&ab_channel=ManualdoDev).
+Confira essa lista de tudo que vamos usar nesse app:
 
-## ✔️ Techniques and technologies used
-
-Check out this list of everything we will use in this app:
-
-- `Responsiveness`
-- `JavaScript`
-- `HTML 5`
-- `CSS 3`
-- `BEM Methodology`
-- `Conditional Rendering`
-- `AWS Deployment`
+- `HTML`
+- `CSS`
+- `Javascript`
 - `GitHub`
 
-## 🛠️ Open and run the project
+## 🛠️ Abra e execute o projeto
 
-To open and run the project, add the Live Server extension, click on the Go Live button usually located in the lower right corner if you are using vscode.
+Para abrir e executar o projeto, adicione a extensão Live Server, clique no botão Go Live geralmente localizado no canto inferior direito se você estiver usando o vscode.
 
-Then go to <a href="http://127.0.0.1:5500/">http://127.0.0.1:5500/</a> in your browser.
+Em seguida, vá para http://127.0.0.1:5500/ em seu navegador.
 
-## 📚 More tutorial information
+## 📚 Mais informações do tutorial
 
-App Pokedex is an application for pokemons consultation, developed from the tutorial [Manual do Dev](https://www.youtube.com/@ManualdoDev). The main idea behind the implementation of this tutorial is to further evolve pure knowledge in js, html and css bases. It is a project that I highly recommend running.
+O App Pokedex é um aplicativo para consulta de pokémons, desenvolvido a partir do tutorial [Manual do Dev](https://www.youtube.com/@ManualdoDev). A ideia principal por trás da implementação deste tutorial é evoluir ainda mais o conhecimento puro nas bases js, html e css. É um projeto que eu recomendo para iniciantes para lidar com fetch, manipulação da DOM e acesso de objetos.
+
+| :placard: Vitrine.Dev |                                                       |
+| --------------------- | ----------------------------------------------------- |
+| :sparkles: Nome       | **Pokedéx**                                           |
+| :label: Tecnologias   | HTML, CSS, JavaScript,GitHub (tecnologias utilizadas) |
+| :rocket: URL          | https://js-app-pokedex.vercel.app/                    |
+| :fire: Desafio        | https://www.youtube.com/@ManualdoDev                  |
