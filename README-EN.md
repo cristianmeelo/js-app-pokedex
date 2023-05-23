@@ -17,7 +17,7 @@
 
 A responsive [pokédex](https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex) that lets you browse all generation 5 pokemons.
 
-<img src="screencapture.gif" alt="Image App" >
+<img src="screencapture.png" alt="Image App" >
 <div align="center">
 <a href="https://js-app-pokedex.vercel.app/">
   <img src="https://img.shields.io/badge/-check%20here-lightgrey"
