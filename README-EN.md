@@ -13,17 +13,24 @@
 
 ![](https://github.com/cristianmeelo/js-app-pokedex/blob/main/thumbnail-en.png?raw=true#vitrinedev)
 
-# App Pokedex
+![](https://github.com/cristianmeelo/js-app-pokedex/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
 
-A responsive [pokédex](https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex) that lets you browse all generation 5 pokemons.
 
-<img src="screencapture.png" alt="Image App" >
 <div align="center">
 <a href="https://js-app-pokedex.vercel.app/">
   <img src="https://img.shields.io/badge/-check%20here-lightgrey"
   alt="Image App" >
 </a>
 </div>
+
+<br/>
+
+
+# App Pokedex
+
+A responsive [pokédex](https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex) that lets you browse all generation 5 pokemons.
+
+
 
 ## 🔨 Project features
 
