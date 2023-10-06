@@ -18,7 +18,7 @@
 
 <div align="center">
 <a href="https://js-app-pokedex.vercel.app/">
-  <img src="https://img.shields.io/badge/-check%20here-lightgrey"
+  <img src="https://img.shields.io/badge/-CHECK%20HERE-lightblue"
   alt="Image App" >
 </a>
 </div>
