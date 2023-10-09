@@ -6,12 +6,12 @@
   </tr>
   <tr>
     <td>
-      <a href="README.md">🇧🇷 Português</a>
+      <a href="README.md">🇧🇷 Portuguese</a>
     </td>
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/js-app-pokedex/blob/main/thumbnail-en.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/js-app-pokedex/blob/main/thumbnail-en.png?raw=true)
 
 ![](https://github.com/cristianmeelo/js-app-pokedex/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
 
